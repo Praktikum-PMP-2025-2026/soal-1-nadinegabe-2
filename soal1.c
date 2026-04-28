@@ -2,7 +2,7 @@
  *   Modul               : 3
  *   Hari dan Tanggal    : Selasa, 28 April 2026
  *   Nama (NIM)          : Nadine Gabe Ulina Sianturi (13224005)
- *   Nama File           : SOAL1.c
+ *   Nama File           : fixbanget.c
  *   Deskripsi           : menentukan penjaga terbaik pada tiap shift agar jadwal evaluasi dapat segera 
  * disusun berdasarkan skor, id dan nama, shift hanya ada 3 yaitu pagi, siang malam. Aturannya skor lebih tinggi lebih baik, jika skor sama, 
  * ID lebih kecil lebih baik, jika id sama, nama alfabetis lebih kecil lebih baik. 
